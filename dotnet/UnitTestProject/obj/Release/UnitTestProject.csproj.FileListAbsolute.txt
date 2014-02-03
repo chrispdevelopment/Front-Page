@@ -1,0 +1,56 @@
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\UnitTestProject.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\UnitTestProject.pdb
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\Books.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\System.Web.Optimization.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.AspNet.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\WebGrease.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\EntityFramework.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.OAuth.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.Core.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.OpenId.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\Antlr3.Runtime.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\Books.pdb
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.AspNet.xml
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\EntityFramework.xml
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.OAuth.xml
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.Core.xml
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\bin\Release\DotNetOpenAuth.OpenId.xml
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\obj\Release\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\obj\Release\UnitTestProject.dll
+C:\Users\Shadow\Desktop\Uni Stuff\ISAD235 - Server-Side Dev\Assignments\Assignment 1\ASP\Books\UnitTestProject\obj\Release\UnitTestProject.pdb
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\UnitTestProject.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\UnitTestProject.pdb
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\Books.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\System.Web.Optimization.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.AspNet.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\Microsoft.AspNet.FriendlyUrls.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\WebGrease.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\EntityFramework.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.OAuth.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.Core.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.OpenId.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\Antlr3.Runtime.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\Books.pdb
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\Microsoft.AspNet.Membership.OpenAuth.xml
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.AspNet.xml
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\Microsoft.AspNet.FriendlyUrls.xml
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\EntityFramework.xml
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.OAuth.xml
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.Core.xml
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\bin\Release\DotNetOpenAuth.OpenId.xml
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\obj\Release\UnitTestProject.csprojResolveAssemblyReference.cache
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\obj\Release\UnitTestProject.dll
+F:\Uni\ISAD235 - Server-Side Dev\Assignments\Assignment 1\frontpage\dotnet\UnitTestProject\obj\Release\UnitTestProject.pdb
